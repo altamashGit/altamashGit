@@ -58,19 +58,13 @@ I specialize in:
 ## 🏗 DevOps Assessment – Full Stack Deployment
 🔗 https://github.com/altamashGit/devops-assessment
 
-✔ Backend: Django REST API
-
-✔ Frontend: React (Vite + TypeScript)
-
-✔  Containerization: Docker
-
-✔  Orchestration: Docker Compose
-
-✔  CI/CD: GitHub Actions
-
-✔  Cloud: AWS EC2 (Using TERRAFORM)
-
-✔  Security Groups & routing configuration  
+✔ Backend: Django REST API  
+✔ Frontend: React (Vite + TypeScript)  
+✔  Containerization: Docker  
+✔  Orchestration: Docker Compose  
+✔  CI/CD: GitHub Actions  
+✔  Cloud: AWS EC2 (Using TERRAFORM)  
+✔  Security Groups & routing configuration    
 
 ---
 
@@ -121,6 +115,35 @@ TCP/IP | Subnetting | Ports | Security Groups | Linux Networking Tools
 
 ---
 
+---
+
+# 🚀 Recently Updated Repositories
+
+<p align="center">
+  <a href="https://github.com/altamashGit?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=altamashGit&repo=ECR-ECS-Project--aws-ecs-fargate-project-&theme=tokyonight&hide_border=true"/>
+  </a>
+
+  <a href="https://github.com/altamashGit?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=altamashGit&repo=Website-Responsive-CICD-nginx&theme=tokyonight&hide_border=true"/>
+  </a>
+
+  <a href="https://github.com/altamashGit?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=altamashGit&repo=two-tier-flask-app&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
+
+---
+
+---
+
+# 📦 Latest Repository Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=altamashGit&theme=tokyonight" />
+</p>
+
+---
 # 🤝 Connect With Me
 
 <p align="center">
