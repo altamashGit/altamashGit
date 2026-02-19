@@ -184,10 +184,10 @@ TCP/IP | Subnetting | Ports | Security Groups | Linux Networking Tools
 
 # 🏆 Engineering Mindset
 
-> Think in systems.
-> Design for resilience.
-> Automate with purpose.
-> Deliver with reliability.
+> Think in systems.  
+> Design for resilience.  
+> Automate with purpose.  
+> Deliver with reliability.  
 
 ---
 
