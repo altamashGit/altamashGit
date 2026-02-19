@@ -26,9 +26,36 @@ I specialize in:
 • Containerizing applications using **Docker**  
 • Orchestrating workloads with **Kubernetes & ECS Fargate**  
 • Implementing IAM & cloud security best practices  
-• Linux system administration & networking fundamentals  
+• Linux system administration & networking fundamentals   
 
 💡 My focus: **High availability, automation, scalability, and security-first architecture.**
+
+
+Passionate about building secure, scalable, and automated cloud infrastructure using modern DevOps practices.
+
+🛠 Currently Working On:  
+• Designing scalable AWS cloud environments  
+• Infrastructure automation using Terraform  
+• Building and optimizing CI/CD pipelines  
+
+🤝 Open to Collaborate On:  
+• Real-world DevOps & cloud projects  
+• Open-source automation initiatives
+
+🌱 Currently Learning:  
+• Kubernetes concepts  
+• IAC with Terraform  
+• CI/CD optimization & monitoring  
+• Cloud security & cost optimization  
+
+💬 Ask Me About:  
+• AWS architecture & deployment strategies  
+• Docker & containerization  
+• Linux troubleshooting & networking basics  
+
+### 🎤 Community Involvement:
+
+Volunteer at TrainWithShubham Community, assisting DevOps learners in AWS, Docker, Kubernetes, and Linux while improving collaboration and communication skills within the cloud community.
 
 ---
 
@@ -105,43 +132,38 @@ TCP/IP | Subnetting | Ports | Security Groups | Linux Networking Tools
 # 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=altamashGit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=altamashGit&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altamashGit&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ---
 
 # 🚀 Recently Updated Repositories
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <p align="center">
-  <a href="https://github.com/altamashGit?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=altamashGit&repo=ECR-ECS-Project--aws-ecs-fargate-project-&theme=tokyonight&hide_border=true"/>
-  </a>
-
-  <a href="https://github.com/altamashGit?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=altamashGit&repo=Website-Responsive-CICD-nginx&theme=tokyonight&hide_border=true"/>
-  </a>
-
-  <a href="https://github.com/altamashGit?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=altamashGit&repo=two-tier-flask-app&theme=tokyonight&hide_border=true"/>
-  </a>
+  <img style={ width=600px hight=400px } src="https://github-readme-activity-graph.vercel.app/graph?username=altamashGit&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
----
+# 💻 Tech Stack:
 
-# 📦 Latest Repository Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=altamashGit&theme=tokyonight" />
-</p>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) 
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 # 🤝 Connect With Me
@@ -162,10 +184,10 @@ TCP/IP | Subnetting | Ports | Security Groups | Linux Networking Tools
 
 # 🏆 Engineering Mindset
 
-> Automate everything.  
-> Secure by design.  
-> Deploy with confidence.  
-> Monitor and optimize continuously.
+> Think in systems.
+> Design for resilience.
+> Automate with purpose.
+> Deliver with reliability.
 
 ---
 
