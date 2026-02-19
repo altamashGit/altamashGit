@@ -144,7 +144,7 @@ TCP/IP | Subnetting | Ports | Security Groups | Linux Networking Tools
 <!--END_SECTION:activity-->
 
 <p align="center">
-  <img style={ width=600px hight=400px } src="https://github-readme-activity-graph.vercel.app/graph?username=altamashGit&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=altamashGit&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
