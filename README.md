@@ -70,6 +70,16 @@ Volunteer at TrainWithShubham Community, assisting DevOps learners in AWS, Docke
 
 # 🚀 Featured DevOps & Cloud Projects
 
+## Static Website Deployment with Terraform (S3, CloudFront & Route 53)  
+🔗 https://github.com/altamashGit/Terraform-AWS-IAC/tree/main/terraform-aws-s3-static-website-cloudfront-route53  
+
+✔  Used Terraform for Infrastructure as Code (IaC) to provision and manage AWS resources for a static website.  
+✔ Hosted the static website content on AWS S3.  
+✔ Implemented AWS CloudFront CDN to securely deliver content and improve latency.  
+✔ Configured Amazon Route 53 for domain management and DNS routing to the CloudFront distribution.  
+
+---
+
 ## 🔥 AWS ECS Fargate Deployment (Production Style)
 🔗 https://github.com/altamashGit/ECR-ECS-Project--aws-ecs-fargate-project-
 
