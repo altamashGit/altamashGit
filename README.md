@@ -64,7 +64,7 @@ Passionate about building secure, scalable, and automated cloud infrastructure u
 
 ### 🎤 Community Involvement:
 
-Volunteer at TrainWithShubham Community, assisting DevOps learners in AWS, Docker, Kubernetes, and Linux while improving collaboration and communication skills within the cloud community.
+Volunteer at TrainWithShubham Community, assisting DevOps 9.5k+ learners in AWS, Docker, Kubernetes, and Linux while improving collaboration and communication skills within the cloud community.
 
 ---
 
@@ -88,6 +88,24 @@ Volunteer at TrainWithShubham Community, assisting DevOps learners in AWS, Docke
 ✔ Application Load Balancer integration  
 ✔ Rolling updates (minimal downtime)  
 ✔ IAM Role-based secure access  
+
+---
+
+## DevSecOps Implementation with GitHub Actions CI/CD 
+ 🔗  https://github.com/altamashGit/DevSecOps-Git-Action-CI-CD  
+ 
+✔ Implemented a DevSecOps pipeline using GitHub Actions for automated CI/CD and security integration.  
+✔ Configured static application security testing (SAST) tools within the workflow to scan code and prevent vulnerabilities from reaching production.  
+✔ Utilized GitHub Secrets and secure principles for credential management.  
+
+---
+
+## AWS Blue-Green Deployment & Infrastructure Automation
+🔗  https://github.com/altamashGit/aws-elastic-beanstalk-blue-green-deployment
+
+✔ Architected a zero-downtime deployment strategy by configuring multi-environment architectures (Python/Flask and Node.js/Express).  
+✔ Automated production releases via DNS-level environment URL swapping, ensuring seamless version transitions and 100% service availability.  
+✔ Managed end-to-end cloud infrastructure, including IAM role security, while implementing rapid rollback procedures to mitigate deployment risks.  
 
 ---
 
