@@ -1,233 +1,199 @@
-<!-- ======================== -->
-<!--      PREMIUM HEADER      -->
-<!-- ======================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF9900&center=true&vCenter=true&width=1000&lines=Hi+There+%F0%9F%91%8B+I'm+Altamash+Alam;AWS+Certified+Solutions+Architect;DevOps+%7C+Cloud+Infrastructure+Engineer;Automating+Cloud+Infrastructure+at+Scale;Building+Secure+and+Reliable+Systems" />
+</p>
 
-<h1 align="center">Altamash Alam</h1>
+<h3 align="center">
+  ☁️ AWS Cloud Architect & DevOps Automation Engineer 🚀
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF9900&center=true&vCenter=true&width=800&lines=AWS+Certified+Solutions+Architect;DevOps+Engineer+%7C+Cloud+Engineer;Docker+%7C+Kubernetes+%7C+CI%2FCD;Building+Secure+%26+Scalable+Cloud+Infrastructure" />
+  <a href="https://www.linkedin.com/in/altamash-alam-129969289/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://altamashGit.github.io/altamash-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Website-16a34a?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/AWS-Certified%20SAA-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DevOps-Engineer-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Linux-Strong%20Foundation-black?style=for-the-badge&logo=linux"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </p>
 
----
+## 👨‍💻 About Me
 
-# 💫 💫 About Me:
-
-🚀 AWS Certified Solutions Architect with hands-on experience designing and deploying production-ready cloud infrastructure.
-
-I specialize in:
-
-• Automating deployments with **CI/CD pipelines**  
-• Containerizing applications using **Docker**  
-• Orchestrating workloads with **Kubernetes & ECS Fargate**  
-• Implementing IAM & cloud security best practices  
-• Linux system administration & networking fundamentals   
-
-💡 My focus: **High availability, automation, scalability, and security-first architecture.**
-
----
-# 🌐 Portfolio Website
-
-🚀 Live Portfolio  
-
-https://altamashGit.github.io/altamash-portfolio/
-
----
-
-
-Passionate about building secure, scalable, and automated cloud infrastructure using modern DevOps practices.
-
-🛠 Currently Working On:  
-• Designing scalable AWS cloud environments  
-• Infrastructure automation using Terraform  
-• Building and optimizing CI/CD pipelines  
-
-🤝 Open to Collaborate On:  
-• Real-world DevOps & cloud projects  
-• Open-source automation initiatives
-
-🌱 Currently Learning:  
-• Kubernetes concepts  
-• IAC with Terraform  
-• CI/CD optimization & monitoring  
-• Cloud security & cost optimization  
-
-💬 Ask Me About:  
-• AWS architecture & deployment strategies  
-• Docker & containerization  
-• Linux troubleshooting & networking basics  
-
-### 🎤 Community Involvement:
-
-Volunteer at TrainWithShubham Community, assisting DevOps 9.5k+ learners in AWS, Docker, Kubernetes, and Linux while improving collaboration and communication skills within the cloud community.
-
----
-
-# 🚀 Featured DevOps & Cloud Projects
-
-## Static Website Deployment with Terraform (S3, CloudFront & Route 53)  
-🔗 https://github.com/altamashGit/Terraform-AWS-IAC/tree/main/terraform-aws-s3-static-website-cloudfront-route53  
-
-✔  Used Terraform for Infrastructure as Code (IaC) to provision and manage AWS resources for a static website.  
-✔ Hosted the static website content on AWS S3.  
-✔ Implemented AWS CloudFront CDN to securely deliver content and improve latency.  
-✔ Configured Amazon Route 53 for domain management and DNS routing to the CloudFront distribution.  
-
----
-
-## 🔥 AWS ECS Fargate Deployment (Production Style)
-🔗 https://github.com/altamashGit/ECR-ECS-Project--aws-ecs-fargate-project-
-
-✔ Docker image build & push to Amazon ECR  
-✔ ECS Fargate (Serverless containers)  
-✔ Application Load Balancer integration  
-✔ Rolling updates (minimal downtime)  
-✔ IAM Role-based secure access  
-
----
-
-## DevSecOps Implementation with GitHub Actions CI/CD 
- 🔗  https://github.com/altamashGit/DevSecOps-Git-Action-CI-CD  
- 
-✔ Implemented a DevSecOps pipeline using GitHub Actions for automated CI/CD and security integration.  
-✔ Configured static application security testing (SAST) tools within the workflow to scan code and prevent vulnerabilities from reaching production.  
-✔ Utilized GitHub Secrets and secure principles for credential management.  
-
----
-
-## AWS Blue-Green Deployment & Infrastructure Automation
-🔗  https://github.com/altamashGit/aws-elastic-beanstalk-blue-green-deployment
-
-✔ Architected a zero-downtime deployment strategy by configuring multi-environment architectures (Python/Flask and Node.js/Express).  
-✔ Automated production releases via DNS-level environment URL swapping, ensuring seamless version transitions and 100% service availability.  
-✔ Managed end-to-end cloud infrastructure, including IAM role security, while implementing rapid rollback procedures to mitigate deployment risks.  
-
----
-
-## ⚙️ CI/CD Pipeline with Jenkins + NGINX
-🔗 https://github.com/altamashGit/Website-Responsive-CICD-nginx
-
-✔ GitHub Webhooks → Jenkins Pipeline  
-✔ Automated EC2 deployment  
-✔ Zero manual deployment  
-✔ NGINX production configuration  
-
----
-
-## 🏗 DevOps Assessment – Full Stack Deployment
-🔗 https://github.com/altamashGit/devops-assessment
-
-✔ Backend: Django REST API  
-✔ Frontend: React (Vite + TypeScript)  
-✔  Containerization: Docker  
-✔  Orchestration: Docker Compose  
-✔  CI/CD: GitHub Actions  
-✔  Cloud: AWS EC2 (Using TERRAFORM)  
-✔  Security Groups & routing configuration    
-
----
-
-## 🐳 Two-Tier Flask App (Dockerized)
-🔗 https://github.com/altamashGit/two-tier-flask-app
-
-✔ Flask + MySQL architecture  
-✔ Docker Compose multi-container setup  
-✔ Production-ready service structure  
-
----
-
-## 📝 Note App – Full Stack Deployment
-🔗 https://github.com/altamashGit/NoteApp
-
-✔ Backend + Database integration  
-✔ Containerized architecture  
-✔ CI/CD enabled deployment  
-
----
-
-# 🧠 Core Technical Skills
-
-### ☁️ Cloud
-AWS (IAM, VPC, EC2, RDS, S3, ECS, ECR, CloudWatch)
-
-### 🐳 DevOps & Containers
-Docker | Kubernetes | Jenkins | GitHub Actions
-
-### 🖥️ Systems & Scripting
-Linux | Bash | YAML | AWS CLI
-
-### 🌐 Networking
-TCP/IP | Subnetting | Ports | Security Groups | Linux Networking Tools
-
----
-
-# 📊 GitHub Performance
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <p>I am an <b>AWS Certified Solutions Architect (Associate)</b> with a solid foundation in building cloud-native architectures and robust DevOps practices. I specialize in bridging the gap between application code and cloud infrastructure, transforming manual workflows into highly automated, self-healing systems.</p>
+      <p>Whether configuring multi-stage container files, deploying zero-downtime release pipelines, or orchestrating secure virtual networks, my focus is always on high availability, cost efficiency, and <b>least-privilege security</b>.</p>
+      <blockquote><b>My Philosophy:</b> Define everything as code, protect the pipeline, and automate relentlessly.</blockquote>
+    </td>
+    <td width="40%" valign="top">
+      <h4>⚡ Core Focus Areas</h4>
+      <ul>
+        <li>☁️ Multi-Tier AWS Topologies</li>
+        <li>⚙️ Infrastructure as Code (Terraform)</li>
+        <li>🔄 Native AWS & GitHub CI/CD</li>
+        <li>🐳 Microservices Containerization</li>
+        <li>🔐 DevSecOps Integration & SAST</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=altamashGit&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </p>
 
-
----
-
-# 🚀 Recently Updated Repositories
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+## 🛠️ Interactive Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=altamashGit&theme=tokyo-night&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,linux,bash,nginx,git,github,vscode" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</p>
 
-# 💻 Tech Stack:
+## 🚀 Featured Deployments & Projects
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) 
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏗️ AWS Multi-Region Infrastructure</h3>
+      <p><b>⚡ ONGOING REPOSITORY</b></p>
+      <p><i>A modular, enterprise-grade Infrastructure as Code foundation designed to provision highly secure, scalable cloud environments.</i></p>
+      <ul>
+        <li>Provisioning multi-tier cloud architectures using reusable, modular **Terraform** templates.</li>
+        <li>Isolating deployment environments via custom VPC networks, subnets, and stateful security groups.</li>
+        <li>Writing clean Infrastructure as Code to safely deploy and tear down target cloud assets.</li>
+      </ul>
+      <a href="https://github.com/altamashGit/Terraform-AWS-IAC"><b>Explore Core Repo 🛠️</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Static Website via CloudFront CDN with Terraform</h3>
+      <p><b>🎯 FEATURED DEPLOYMENT</b></p>
+      <p><i>Production-ready website infrastructure orchestrated via Terraform, leveraging global edge caches for ultra-low latency.</i></p>
+      <ul>
+        <li>Implemented secure static hosting on AWS **S3** managed as dynamic IaC resources.</li>
+        <li>Configured **CloudFront CDN** distributions to deliver low-latency caching and end-to-end security.</li>
+        <li>Integrated custom DNS routing and automated records management using Amazon **Route 53**.</li>
+      </ul>
+      <a href="https://github.com/altamashGit/Terraform-AWS-IAC/tree/main/terraform-aws-s3-static-website-cloudfront-route53"><b>View S3/CloudFront/Route53 Deployment 🚀</b></a>
+    </td>
+  </tr>
+  
+  <tr><td><br></td><td><br></td></tr>
 
----
-# 🤝 Connect With Me
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔄 Native AWS CodeBuild CI/CD</h3>
+      <p><b>🔥 LATEST PIPELINE</b></p>
+      <p><i>An automated, serverless DevOps pipeline built entirely natively inside the Amazon Web Services ecosystem.</i></p>
+      <ul>
+        <li>Orchestrated code integrations via **AWS CodeBuild** to compile, package, and containerize runtimes.</li>
+        <li>Configured zero-overhead deployments onto **Amazon ECS** with dynamic **Amazon ECR** image tagging.</li>
+        <li>Eliminated credentials leakage by using native **IAM Service Roles** for secure pipeline-to-infrastructure handshakes.</li>
+      </ul>
+      <a href="https://github.com/altamashGit/aws_code_build_CI-CD_project"><b>View Latest Project 🛠️</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐳 Serverless ECS Fargate</h3>
+      <p><i>Modern container orchestration with zero host-server overhead.</i></p>
+      <ul>
+        <li>Built an automated pipeline to securely package application runtimes and push images directly to **Amazon ECR**.</li>
+        <li>Configured an **Application Load Balancer (ALB)** to manage path routing and traffic distribution.</li>
+        <li>Enforced strict runtime security using native, execution-level **IAM Roles**.</li>
+      </ul>
+      <a href="https://github.com/altamashGit/ECR-ECS-Project--aws-ecs-fargate-project-"><b>View Repository 🛠️</b></a>
+    </td>
+  </tr>
+
+  <tr><td><br></td><td><br></td></tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🟢 Blue-Green Deployments</h3>
+      <p><i>Zero-downtime release automation configured for multi-environment services.</i></p>
+      <ul>
+        <li>Architected multi-tier environments (Flask & Express) to guarantee **100% service availability**.</li>
+        <li>Automated production cutovers with fast, DNS-level environment URL swapping.</li>
+        <li>Configured rapid rollback processes to minimize outage risks during bad rollouts.</li>
+      </ul>
+      <a href="https://github.com/altamashGit/aws-elastic-beanstalk-blue-green-deployment"><b>View Repository 🛠️</b></a>
+    </td>
+    <td width="50%" valign
+
+  <tr><td><br></td><td><br></td></tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔐 DevSecOps GitHub Pipeline</h3>
+      <p><i>Shifting security left by integrating automated security scans into Git workflows.</i></p>
+      <ul>
+        <li>Integrated automated **Static Application Security Testing (SAST)** tools inside CI/CD pipelines.</li>
+        <li>Enforced runtime secrets detection checks to block hardcoded database or cloud API keys.</li>
+        <li>Safeguarded access tokens by running deployments on target servers using **GitHub Secrets**.</li>
+      </ul>
+      <a href="https://github.com/altamashGit/DevSecOps-Git-Action-CI-CD"><b>View Repository 🛠️</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📦 React & Django Full-Stack</h3>
+      <p><i>Securely containerized services deployed onto automated infrastructure foundations.</i></p>
+      <ul>
+        <li>Provisioned target virtual machines (EC2) and secure stateful firewalls using **Terraform**.</li>
+        <li>Containerized frontend (Vite) and backend (Django REST) services using secure, **non-root users**.</li>
+        <li>Leveraged **Nginx as a Reverse Proxy** to handle static routing and client APIs efficiently.</li>
+      </ul>
+      <a href="https://github.com/altamashGit"><b>View Repository 🛠️</b></a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <a href="https://github.com/altamashGit">
-    <img src="https://img.shields.io/badge/GitHub-altamashGit-181717?style=for-the-badge&logo=github"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</p>
+
+## 🏆 Certifications & Community Engagement
+
+* 🏅 **AWS Certified Solutions Architect – Associate (SAA-C03)**
+* ☁️ **AWS Cloud Quest: Cloud Practitioner**
+* 👨‍💻 **DevOps Volunteer** | Actively supporting learners inside the *TrainWithShubham Community*
+* 🐧 Solid foundations in **Linux Systems Administration, TCP/IP Networking, and Bash Scripting**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</p>
+
+## 📊 Developer Metrics & Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=altamashGit&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=altamashGit&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=altamashGit&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</p>
+
+## 🤝 Let's Collaborate!
+
+I am actively open to opportunities as a **DevOps Engineer**, **AWS Cloud Engineer**, or **Infrastructure Automation Engineer**. If you are looking to scale, secure, or automate your production pipelines, let's connect!
+
+<p align="center">
+  <a href="mailto:altamashalam102@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/altamash-alam-129969289/">
-    <img src="https://img.shields.io/badge/LinkedIn-Altamash%20Alam-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:altamashalam102@gmail.com">
-    <img src="https://img.shields.io/badge/Email-altamashalam102@gmail.com-D14836?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
----
-
-# 🏆 Engineering Mindset
-
-> Think in systems.  
-> Design for resilience.  
-> Automate with purpose.  
-> Deliver with reliability.  
-
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=altamashGit&style=for-the-badge&color=brightgreen"/>
+  <img src="https://komarev.com/ghpvc/?username=altamashGit&style=for-the-badge&color=FF9900"/>
 </p>
