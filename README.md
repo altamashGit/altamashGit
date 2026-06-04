@@ -61,6 +61,17 @@
 <table border="0">
   <tr>
     <td width="50%" valign="top">
+      <h3>🎯 SkillPulse — Production-Grade AWS ECS DevOps Platform</h3>
+      <p><b>🔥 LATEST DEPLOYMENT</b></p>
+      <p><i>A cloud-native three-tier web application orchestrated via serverless ECS Fargate and protected by an enterprise-grade layered security architecture.</i></p>
+      <ul>
+        <li>Designed a multi-AZ private networking topology containing isolated Application and RDS MySQL database subnet layers.</li>
+        <li>Architected an automated, zero-downtime CI/CD pipeline natively driven by **GitHub Actions** workflows with dynamic ECR image versioning.</li>
+        <li>Implemented secure, runtime credentials injection directly into containers leveraging **AWS Secrets Manager** and least-privilege IAM policies.</li>
+      </ul>
+      <a href="https://github.com/altamashGit/production-grade-ecs-devops"><b>Explore DevOps Platform 🚀</b></a>
+    </td>
+    <td width="50%" valign="top">
       <h3>🏗️ AWS Multi-Region Infrastructure</h3>
       <p><b>⚡ ONGOING REPOSITORY</b></p>
       <p><i>A modular, enterprise-grade Infrastructure as Code foundation designed to provision highly secure, scalable cloud environments.</i></p>
@@ -71,6 +82,11 @@
       </ul>
       <a href="https://github.com/altamashGit/Terraform-AWS-IAC"><b>Explore Core Repo 🛠️</b></a>
     </td>
+  </tr>
+  
+  <tr><td><br></td><td><br></td></tr>
+
+  <tr>
     <td width="50%" valign="top">
       <h3>🌐 Static Website via CloudFront CDN with Terraform</h3>
       <p><b>🎯 FEATURED DEPLOYMENT</b></p>
@@ -82,14 +98,9 @@
       </ul>
       <a href="https://github.com/altamashGit/Terraform-AWS-IAC/tree/main/terraform-aws-s3-static-website-cloudfront-route53"><b>View S3/CloudFront/Route53 Deployment 🚀</b></a>
     </td>
-  </tr>
-  
-  <tr><td><br></td><td><br></td></tr>
-
-  <tr>
     <td width="50%" valign="top">
       <h3>🔄 Native AWS CodeBuild CI/CD</h3>
-      <p><b>🔥 LATEST PIPELINE</b></p>
+      <p><b>🔥 NATIVE PIPELINE</b></p>
       <p><i>An automated, serverless DevOps pipeline built entirely natively inside the Amazon Web Services ecosystem.</i></p>
       <ul>
         <li>Orchestrated code integrations via **AWS CodeBuild** to compile, package, and containerize runtimes.</li>
@@ -98,6 +109,11 @@
       </ul>
       <a href="https://github.com/altamashGit/aws_code_build_CI-CD_project"><b>View Latest Project 🛠️</b></a>
     </td>
+  </tr>
+
+  <tr><td><br></td><td><br></td></tr>
+
+  <tr>
     <td width="50%" valign="top">
       <h3>🐳 Serverless ECS Fargate</h3>
       <p><i>Modern container orchestration with zero host-server overhead.</i></p>
@@ -108,11 +124,6 @@
       </ul>
       <a href="https://github.com/altamashGit/ECR-ECS-Project--aws-ecs-fargate-project-"><b>View Repository 🛠️</b></a>
     </td>
-  </tr>
-
-  <tr><td><br></td><td><br></td></tr>
-
-  <tr>
     <td width="50%" valign="top">
       <h3>🟢 Blue-Green Deployments</h3>
       <p><i>Zero-downtime release automation configured for multi-environment services.</i></p>
@@ -123,7 +134,7 @@
       </ul>
       <a href="https://github.com/altamashGit/aws-elastic-beanstalk-blue-green-deployment"><b>View Repository 🛠️</b></a>
     </td>
-    <td width="50%" valign
+  </tr>
 
   <tr><td><br></td><td><br></td></tr>
 
